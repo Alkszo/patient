@@ -1,5 +1,6 @@
 {
   "name": "patient",
+  "homepage": "https://github.com/Alkszo/patient.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
